@@ -25,6 +25,6 @@
         "username": "bisal",
         "password": "bisal7",
         "expirydate": "10-11-2025",
-        "Allowoffline": false
+        "Allowoffline": true
 }
 ]
