@@ -21,10 +21,10 @@
         "Allowoffline": false
 },
 {
-        "device_id": "device1",
+        "device_id": "69084fc2c9177f22",
         "username": "bisal",
         "password": "bisal7",
-        "expirydate": "10-11-2025",
-        "Allowoffline": true
+        "expirydate": "08-9-2025",
+        "Allowoffline": false
 }
 ]
