@@ -26,5 +26,13 @@
         "password": "bisal7",
         "expirydate": "08-9-2025",
         "Allowoffline": false
-}
+},
+    {
+        "device_id": "device123",
+        "username": "akash1",
+        "password": "123",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    
 ]
